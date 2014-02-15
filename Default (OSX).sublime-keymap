@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+ä"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["super+ö"], "command": "toggle_comment", "args": { "block": true } },
+]

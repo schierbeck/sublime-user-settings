@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"background": "FF0000",
+	"highlight_modified_tabs": true,
+	"tab_width": 300,
+	"tab_size": 4,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

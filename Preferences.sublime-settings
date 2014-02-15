@@ -1,0 +1,50 @@
+{
+	"attributes":
+	[
+		"selected",
+		"file_medium_dark"
+	],
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"class": "tab_control",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"fallback_encoding": "UTF-8",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.lib",
+		"*.log"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"tab_size": 2,
+	"tint_modifier":
+	[
+		255,
+		100,
+		255,
+		100
+	],
+	"translate_tabs_to_spaces": false,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+}

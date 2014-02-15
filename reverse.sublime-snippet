@@ -1,0 +1,15 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+var str = 'hej';
+function reverse(x){
+    return x.split('').reverse().join('');
+}
+console.log(reverse(str));
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>reverse</tabTrigger>
+  <description>JavaScript reverse function</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js, storage.type.js</scope>
+</snippet>

@@ -1,0 +1,11 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"slideshow_demo": "https://github.com/schierbeck/Slideshow-demo/archive/master.zip"
+	}
+}
