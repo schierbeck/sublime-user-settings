@@ -1,4 +1,6 @@
 [
 	{ "keys": ["super+ä"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["super+ö"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["super+shift+v"], "command": "paste" },
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
 ]
